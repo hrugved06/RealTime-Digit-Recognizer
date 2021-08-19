@@ -7,10 +7,10 @@
 
  ## Example
  - Recognizing handwritten 3 </br>
- ![3]() </br> </br>
+ ![3](https://github.com/hrugved06/RealTime-Digit-Recognizer/blob/main/assets/p1.png) </br> </br>
 
  - Recognizing handwritten 0,1,2 </br>
-![0,1,2]() </br>
+![0,1,2](https://github.com/hrugved06/RealTime-Digit-Recognizer/blob/main/assets/p2.png) </br>
 
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
